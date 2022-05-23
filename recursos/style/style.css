@@ -1,0 +1,31 @@
+body{
+   /* background-color: rgb(215, 243, 237);*/
+   background-image: url("/v0068/pics/estrela4.jpg");
+   background-position: center;
+   background-repeat: no-repeat;
+
+   position: relative;
+
+}
+table{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+th{
+    color:rgb(51, 67, 68);
+
+}
+td{
+    text-align: center;
+    font: size 14px;
+    color:cadetblue;
+    background-color: rgb(245, 243, 243);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    background-color: rgb(3, 19, 71);
+    color:rgb(206, 221, 221);
+    text-align: center;
+}
